@@ -27,7 +27,17 @@ Features :
 •SLA (Service Level Agreement) tracking 
 •Real-time ticket monitoring 
 •Notification system for updates 
- 
+
+Project Structure 
+├── 01_User_Creation/
+├── 02_group_creation/
+├── 03_role_creation/
+├── 04_table_creation/
+├── 05_assign_roles&user_to_group/
+├── 06_assign_role_to_table/
+├── 07_create_acl/
+├── 08_flow/
+└── 09_conclusion/
 Implementation Steps: 
 
 Step 1: Setup ServiceNow Instance 
